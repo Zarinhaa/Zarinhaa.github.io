@@ -1,11 +1,25 @@
 
 body {
-    background: #79dd79
+    background: #aee9ae
   }
 
+h1 {
+    text-align: center
+}
+
+#foto {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 p {
     text-align: center;
+  }
+  #frase {
+    font-size: 25px
   }
 
   strong {
