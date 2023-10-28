@@ -4,11 +4,11 @@ body {
   }
 
 h1 {
-    text-align: center; background: #98fb98;
+    text-align: center; background: #c7fcc7;
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
 }
 
 #foto {
@@ -17,12 +17,13 @@ h2 {
 }
 
 p {
-    text-align: center;
+    text-align: left; 
   }
   #frase {
     font-size: 25px
   }
 
   strong {
+    text-align: center;
   color: #224222; 
   }
